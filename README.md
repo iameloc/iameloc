@@ -1,4 +1,7 @@
-## Hello there <img src="http://emojis.slackmojis.com/emojis/images/1493910355/2182/tie-fighter.png" alt="R2-D2" width="30" height="30">
+## Hello there <img src="http://emojis.slackmojis.com/emojis/images/1493910355/2182/tie-fighter.png" alt="tie" width="25" height="25"> <img src="http://emojis.slackmojis.com/emojis/images/1450319458/135/x-wing.png" alt="xwing" width="25" height="25">
+💻 Computer Science Student
+📈 Documenting my coding journey and progress
+🎯 Good things are yet to come.
 
 
 <!--

@@ -1,4 +1,4 @@
-<img src="http://emojis.slackmojis.com/emojis/images/1450319458/135/x-wing.png" alt="xwing" width="25" height="25">   ## Hello there  
+<img src="http://emojis.slackmojis.com/emojis/images/1450319458/135/x-wing.png" alt="xwing" width="25" height="25">   ##Hello there  
 💻 Computer Science Student  
 
 📈 Documenting my coding journey and progress  

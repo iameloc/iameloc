@@ -5,6 +5,7 @@
 
 🎯 Good things are yet to come.
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iameloc&layout=compact)
 
 <!--
 **iameloc/iameloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
